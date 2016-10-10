@@ -1,5 +1,5 @@
 # hello-world
-my first repository
+mi primer repositorio
 
 hi world
 this is my firts edit in a file!
