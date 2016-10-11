@@ -1,3 +1,3 @@
 # hello-world
-mi primer repositorio en github welcome
-y ya comenzamos hacer pruebas
+este llerme es diferente al original
+pues fue modificado en github
